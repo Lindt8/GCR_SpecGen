@@ -1,7 +1,7 @@
 [View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/GCR_SpecGen/master)
 
 # GCR SpecGen
-[![DOI](https://zenodo.org/badge/139750602.svg)](https://zenodo.org/badge/latestdoi/139750602)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2573359.svg)](https://doi.org/10.5281/zenodo.2573359)
 ### Galactic Cosmic Ray Spectra Generator
 
 Automatically generate GCR spectra for Z=1-28 for any level of solar modulation (or date / range of dates).
