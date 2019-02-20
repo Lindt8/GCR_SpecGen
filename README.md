@@ -1,3 +1,5 @@
+[View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/GCR_SpecGen/master)
+
 # GCR SpecGen
 Automatically generate GCR spectra for Z=1-28 for any time
 
