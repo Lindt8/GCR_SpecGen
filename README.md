@@ -1,7 +1,7 @@
 [View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/GCR_SpecGen/master)
 
 # GCR SpecGen
-Automatically generate GCR spectra for Z=1-28 for any time
+Automatically generate GCR spectra for Z=1-28 for any level of solar modulation (or date / range of dates).
 
 This is a Jupyter notebook for conveniently generating GCR spectra using the Matthia model.
 For more information about the model, see: https://www.sciencedirect.com/science/article/pii/S0273117712005947?via%3Dihub
