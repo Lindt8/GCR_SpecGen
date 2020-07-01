@@ -1,4 +1,4 @@
-[View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/GCR_SpecGen/master)
+## [View online at the Binder build of this repository.](https://mybinder.org/v2/gh/Lindt8/GCR_SpecGen/master)
 
 # GCR SpecGen
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2573359.svg)](https://doi.org/10.5281/zenodo.2573359)
